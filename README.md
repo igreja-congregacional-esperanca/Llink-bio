@@ -9,9 +9,9 @@ Abra o `index.html`, procure por `LINKS` perto do final do arquivo e troque os e
 ```js
 var LINKS = {
   site: "https://www.iecesperanca.com.br/",
-  youtube: "",
+  youtube: "https://www.youtube.com/@IECConjuntoEsperan%C3%A7a",
   local: "https://share.google/pRhKdVoDIfqXM68cA"
 };
 ```
 
-O botão do YouTube fica sem destino enquanto o endereço estiver vazio.
+Se um endereço ficar vazio, o botão correspondente fica sem destino.
